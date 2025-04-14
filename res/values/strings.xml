@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TuraApp</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="title">HikeMate</string>
+    <string name="cancel">Mégsem</string>
+    <string name="password_again">Jelszó újra</string>
+    <string name="dest1">1. úticél: Kékes</string>
+    <string name="dest2">2. úticél: Mátra</string>
+    <string name="dest3">3. úticél: Mecsek</string>
+    <string name="dest4">4. úticél: Zala</string>
+</resources>
