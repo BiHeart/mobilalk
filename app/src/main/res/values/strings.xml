@@ -11,4 +11,8 @@
     <string name="dest2">2. úticél: Mátra</string>
     <string name="dest3">3. úticél: Mecsek</string>
     <string name="dest4">4. úticél: Zala</string>
+    <string name="e_mail">E-mail</string>
+    <string name="placeholder">placeholder</string>
+    <string name="leiras">Leírás</string>
+    <string name="turainfo">Infó a túráról</string>
 </resources>
