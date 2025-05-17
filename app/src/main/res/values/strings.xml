@@ -15,4 +15,18 @@
     <string name="placeholder">placeholder</string>
     <string name="leiras">Leírás</string>
     <string name="turainfo">Infó a túráról</string>
+    <string name="kedvencekbe">Kedvencekbe</string>
+
+    <string-array name="destination_names">
+        <item>Kékes</item>
+        <item>Mátra</item>
+        <item>Bükk</item>
+    </string-array>
+
+    <string-array name="destination_rating">
+        <item>Nehéz</item>
+        <item>Könnyű</item>
+        <item>Közepes</item>
+    </string-array>
+
 </resources>

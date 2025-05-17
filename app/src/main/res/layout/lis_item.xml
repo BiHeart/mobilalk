@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp">
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -21,16 +23,27 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/itemimage"
         android:padding="8dp"
-        android:text="@string/leiras"
+        android:text="@string/name"
         android:textColor="@color/black"/>
 
     <TextView
+        android:id="@+id/info"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/itemTitle"
         android:padding="8dp"
         android:text="@string/turainfo"/>
 
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/info"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="@string/kedvencekbe"/>
+
     </RelativeLayout>
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>
