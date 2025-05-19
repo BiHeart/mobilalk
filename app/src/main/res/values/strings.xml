@@ -1,32 +1,43 @@
 <resources>
-    <string name="app_name">TuraApp</string>
-    <string name="name">Név</string>
-    <string name="password">Jelszó</string>
-    <string name="login">Bejelentkezés</string>
-    <string name="register">Regisztráció</string>
-    <string name="title">HikeMate</string>
-    <string name="cancel">Mégsem</string>
-    <string name="password_again">Jelszó újra</string>
-    <string name="dest1">1. úticél: Kékes</string>
-    <string name="dest2">2. úticél: Mátra</string>
-    <string name="dest3">3. úticél: Mecsek</string>
-    <string name="dest4">4. úticél: Zala</string>
-    <string name="e_mail">E-mail</string>
-    <string name="placeholder">placeholder</string>
-    <string name="leiras">Leírás</string>
-    <string name="turainfo">Infó a túráról</string>
-    <string name="kedvencekbe">Kedvencekbe</string>
+    <string name="app_name">mobil</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
 
-    <string-array name="destination_names">
-        <item>Kékes</item>
-        <item>Mátra</item>
-        <item>Bükk</item>
-    </string-array>
 
-    <string-array name="destination_rating">
-        <item>Nehéz</item>
-        <item>Könnyű</item>
-        <item>Közepes</item>
-    </string-array>
 
+    <string name="user_name">User name</string>
+    <string name="email_address">Email Address</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="cancel">Cancel</string>
+    <string name="category_name">Category Name</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_user_index">UserIndexActivity</string>
+    <string name="drink_store">Drink Store</string>
+    <string name="product_name">Product Name</string>
+    <string name="price_1_990_ft">Price: 1 990 Ft</string>
+    <string name="logout">Logout</string>
+    <string name="save_shop_contact">Save Shop Contact</string>
+    <string name="category">Category</string>
+    <string name="price">Price</string>
+    <string name="add">Add</string>
+    <string name="modify">Modify</string>
+    <string name="delete">Delete</string>
+    <string name="back">Back</string>
+    <string name="update">Update</string>
+    <string name="findneareststore">FindNearestStore</string>
+    <string name="hikemate">HikeMate</string>
+    <string name="save_contact">Save contact</string>
+    <string name="descreption">Descreption</string>
+    <string name="description">Description</string>
+    <string name="turazas">Túrázni vágyóknak</string>
 </resources>

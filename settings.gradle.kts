@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TuraApp"
+rootProject.name = "mobil"
 include(":app")
  
